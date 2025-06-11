@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=5eTools
+Exec=/home/tips/.5e/RUN.sh
+Icon=/home/tips/.5e/android-chrome-384x384.png
+Terminal=false
+Type=Application
